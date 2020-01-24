@@ -6,7 +6,7 @@ public class Hello {
 
 		String s1 = "Java";
 		String s2 = new String();
-		s2 = "Java Programs";
+		s2 = "C# Programs";
 
 		System.out.println(s1.toLowerCase());
 		System.out.println(s1.toUpperCase());
